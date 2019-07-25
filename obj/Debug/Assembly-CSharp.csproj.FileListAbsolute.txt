@@ -1,0 +1,4 @@
+C:\Users\준모\Desktop\학교자료\코딩\VisualStudio\UnityProject\collegeProject\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+C:\Users\준모\Desktop\학교자료\코딩\VisualStudio\UnityProject\collegeProject\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+C:\Users\준모\source\repos\FlyingPeach\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+C:\Users\준모\source\repos\FlyingPeach\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
